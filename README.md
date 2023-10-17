@@ -1,6 +1,10 @@
 docker-gen
 =====
 
+> [!IMPORTANT]  
+> This is a maintained fork of [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) to add support for docker health checks thanks to [this upstream pull-request](https://github.com/nginx-proxy/docker-gen/pull/442) from [free6k](https://github.com/free6k).
+> Corresponding releases of this fork are used in [this another fork of nginx-proxy/nginx-proxy](https://github.com/fabien-marty/nginx-proxy).
+
 
 [![Tests](https://github.com/nginx-proxy/docker-gen/actions/workflows/tests.yml/badge.svg)](https://github.com/nginx-proxy/docker-gen/actions/workflows/tests.yml)
 [![GitHub release](https://img.shields.io/github/v/release/nginx-proxy/docker-gen)](https://github.com/nginx-proxy/docker-gen/releases)
